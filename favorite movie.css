@@ -1,0 +1,125 @@
+body{
+    margin:0%;
+    background-color:red;
+}
+h1{
+    color: white;
+    border: solid;
+    border-width: 18px 30px 18px 30px;
+    text-align: center;
+    font-size: 130px;
+    font-family: helvetica;
+    margin: 0px;
+    line-height: 102px;
+}
+
+#Avengers {
+    width: 80%;
+    margin-left: 10%;
+}
+
+h2{
+    color: black;
+    border: solid 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Helvetica;
+    line-height: 60px;
+    margin-top: -5px;
+}
+
+#intro {
+    color: black;
+    border: solid;
+    border-width: 0px 8px;
+    font-size: 30px;
+    font-family: helvetica; 
+    padding-left:100px;
+    padding-right:100px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    text-align: justify;
+    margin-top: -42px;
+    margin-bottom: -20px;
+}
+
+h3{
+    color: black;
+    border: solid 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Helvetica;
+    line-height: 60px;
+    margin-top: -5px;
+}
+
+#thor{
+    width: 28%;
+    display: inline-block;
+    margin-left: 8%;
+}
+
+#ironman{
+    width: 28%;
+    display: inline-block;
+    margin-top: 4%;
+}
+
+#Captain{
+    width: 28%;
+    display: inline-block;
+    margin-right: 4%;
+}
+
+h4{
+    color: black;
+    border: solid 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Helvetica;
+    line-height: 60px;
+    margin-top: -5px;
+}
+
+#Marvel studios {
+    width: 80%;
+    margin-left: 10%;
+}
+#conclusion {
+    color: black;
+    border: solid;
+    border-width: 0px 8px;
+    font-size: 30px;
+    font-family: helvetica; 
+    padding-left:100px;
+    padding-right:100px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    text-align: justify;
+    margin-top: -42px;
+    margin-bottom: -20px;
+}
+
+.email{
+    font-size: 40px;
+    display:block;
+    color: red;
+    background-color: black;
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 40%;
+    border-radius: 5%;
+    transition-duration: .1s;
+}
+
+.email:hover{
+    background: black;
+    color: gold;
+    border-radius: 50%;
+}
+
+.email:active{
+    color: gold;
+    font-size: 80px;
+}
